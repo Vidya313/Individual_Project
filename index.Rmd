@@ -138,7 +138,7 @@ Source:[@tableau]
 The fact to be conveyed to the Mayor is that there exist high sensitive locations in the city which have consistently recorded more violations across the years. It is crucial for the concerned authorities to investigate the underlying causes and improve safety measure like crossing guards and police officers around schools; and infrastructure improvements, such as signs, crosswalk markings and other traffic safety improvements in the affected locations. With this exercise, a significant number of violations can be reduced.
 
 ## Finding 3:
-There are a total of 162 cameras installed across the city of Chicago distributed in 40 different zip codes.  12 among those 162 cameras are newly installed in 2018. The program claims that Camera locations are chosen based on available data regarding traffic, speeding, and crashes.
+There are a total of 162 cameras installed across the city of Chicago distributed in 40 different zip codes.  12 among those 162 cameras are newly installed in 2018.[@cameradetails] The program claims that Camera locations are chosen based on available data regarding traffic, speeding, and crashes.
 
 Another distribution strategy consistent with public safety would be to have the cameras distributed in areas (zip codes) known to have a higher than average violation rate. If speed camera deployment deviates from these distributions raises concern that public safety was undermined by speed camera program.
 
