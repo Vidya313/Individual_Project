@@ -1,0 +1,6 @@
+book_filename: "Individual_Project"
+delete_merged_file: true
+language:
+  ui:
+    #chapter_name: "Stage "
+output_dir: "docs"
