@@ -23,19 +23,19 @@ Stage 2: Extracting interesting aspects from the data
 Stage 3: Improvising the stage 2 output with advanced features of Tableau.
 
 
-# Summary The Data:
+# Summary of the data:
 The Data set provides an accurate view into the Automated Speed Enforcement Program violations taking place in Children's Safety Zones.
 Each row in the data set represents speed light camera violation
 
 Data Source: [@data]
 
 
-# Overview of the Automated Speed Enforcement Program:
+# Overview of the 'Automated Speed Enforcement' program:
 It is a program undertaken by the city of Chicago to protect children and other pedestrians by speeding motor vehicles. The program uses enhanced safety measures such as Pedestrian refuge islands, Safety zone signage, and street stencils, High-visibility crosswalk markings, Speed feedback signs and many more. The automated speed enforcement cameras are one among the program’s safety measure, these automated safety cameras to identify and ticket motorists who are breaking the law by exceeding the speed limits. The registered owner of the speeding vehicle will be issued the speeding ticket.
 [@program]
 
 
-# Stage 1: Observations from Data Exploration
+# Stage 1: Observations from data exploration
 As part of the data exploration developed distinct visualizations in Tableau some of the key observations were that there existed a total of 5,159,847 violations captured through the speed cameras between 2014 to present (at the time of data collection). Although the violations are declining crosswise over time, the violations across month are fluctuating. The violations captured across the cameras in different locations and positions vary significantly, and certain areas have higher violations recorded consistently. 
 
 
@@ -56,7 +56,7 @@ Learnings gained after this stage of the project by self-critiquing the visualiz
 Source: [@dataexp]
 
 
-# Stage 2:Development of insights from the data
+# Stage 2:First version,development of insights from the data
 
 
 The goal of this stage of the project is to draw appealing aspects from data to present the mayor of Chicago and also to incorporate the lessons learned in the data exploration stage.
@@ -176,11 +176,8 @@ The key aspects extracted from this stage to present the Mayor of the city of Ch
 2. The consistent high volume of violations captured by cameras across years calls for further safety improvements.
 3. The locations for camera installations require a new study by concerned authorities to identify critical safety zones and improve the efficiency of the program.
 
-
-
-
-# Stage 3: 
-
-**Road map for future enhancements:**
+**Road map for enhancements form stage2 to stage 3:**
 This stage of the project will incorporate improvising the visualizations created in the previous phase  and creation of meaningful dashboards by using advanced and interactive features of Tableau.
+
+
 
